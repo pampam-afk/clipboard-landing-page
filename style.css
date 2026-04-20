@@ -372,15 +372,14 @@
     }
 
     .section3 p{
-        margin-left: 60px;
-        width: 65%;
+        margin-left: 50px;
+        width: 70%;
     }
 
-    .section3 div{
-        margin-top: 30px;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
+    .section3 div .divbar2{
+        display: block;
+        margin-left: 107px;
+        margin-top: 20px;
     }
 
     .div-class{
